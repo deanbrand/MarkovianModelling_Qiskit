@@ -1,6 +1,6 @@
 # Markovian Noise Modelling and Parameter Extraction of Superconducting Qubits
 
-This repository contains the Python Jupyter Notebooks used in the data procurement for the recent research article: Brand, D., Sinayskiy, I. and Petruccione, F., 2022. Markovian Modelling and Calibration of IBMQ Transmon Qubits. arXiv preprint arXiv:2202.04474.
+This repository contains the Python Jupyter Notebooks used in the data procurement for the recent research article: Brand, D., Sinayskiy, I. and Petruccione, F., 2022. Markovian Modelling and Calibration of IBMQ Transmon Qubits. arXiv preprint arXiv:2202.04474. (https://arxiv.org/abs/2202.04474)
 
 All four notebooks here are similar in their structure, but specialised for various experimental procedures. The notebooks have the folliwng structure:
 
