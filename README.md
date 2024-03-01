@@ -1,4 +1,4 @@
-# Markovian Noise Modelling and Parameter Extraction of Superconducting Qubits
+# Markovian noise modelling and parameter extraction framework for quantum devices
 
 This repository contains the Python Jupyter Notebooks used in the data procurement for the recent research article: Brand, D., Sinayskiy, I. & Petruccione, F. Markovian noise modelling and parameter extraction framework for quantum devices. Sci Rep 14, 4769 (2024). https://doi.org/10.1038/s41598-024-54598-5
 
